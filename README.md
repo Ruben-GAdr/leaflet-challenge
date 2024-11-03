@@ -1,0 +1,3 @@
+# Earthquake monitoring
+
+In this development, Leaflet is used to show the behavior of earthquakes on planet Earth, showing their frequencies, intensities and durations. This information is obtained from https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php in json format and we can see in this exercise how the junctions of the tectonic plates play an important role in the occurrence of these events. We also see how places like Russia, much of the African continent, Australia and northern Europe are not as affected by these events due to the conformation of these plates, on the other hand, there is the area of ​​the Pacific Ocean, where the fact that this area is made up of smaller tectonic plates apparently influences.
